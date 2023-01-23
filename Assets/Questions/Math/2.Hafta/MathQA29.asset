@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA29
+  m_EditorClassIdentifier: 
+  question: "Mahmut'un akl\u0131ndan tuttu\u011Fu say\u0131dan 27 \xE7\u0131kart\u0131nca
+    elde etti\u011Fi say\u0131 59 dur. Buna g\xF6re Mahmut'un tuttu\u011Fu say\u0131
+    ka\xE7t\u0131r ?"
+  answers:
+  - 86
+  - 87
+  - 88
+  - 89
+  correctAnswerIndex: 0

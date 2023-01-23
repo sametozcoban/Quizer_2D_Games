@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 113
+  m_EditorClassIdentifier: 
+  question: "Babas\u0131 Yusuf\u2019a 38 TL har\xE7l\u0131k verdi. Yusuf bu paran\u0131n
+    11 TL\u2019sini harcad\u0131. Yusuf\u2019un harcamad\u0131\u011F\u0131 ka\xE7
+    TL\u2019si kald\u0131?"
+  answers:
+  - 26
+  - 27
+  - 28
+  - 29
+  correctAnswerIndex: 1

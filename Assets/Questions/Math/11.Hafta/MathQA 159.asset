@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 159
+  m_EditorClassIdentifier: 
+  question: "2 ke\xE7iden g\xFCnde 6 kova s\xFCt alan bir \xE7oban, 6 ke\xE7iden
+    ka\xE7 kova s\xFCt al\u0131r?"
+  answers:
+  - 12
+  - 16
+  - 18
+  - 24
+  correctAnswerIndex: 2

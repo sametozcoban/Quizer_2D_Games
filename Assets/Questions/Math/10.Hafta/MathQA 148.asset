@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 148
+  m_EditorClassIdentifier: 
+  question: "Fikret, Halil ve K\xFCbra\u2019n\u0131n 13\u2019er TL\u2019si vard\u0131.
+    \xDC\xE7 karde\u015F paralar\u0131n\u0131 birle\u015Ftirerek 22 TL\u2019ye basketbol
+    topu ald\u0131lar. Geriye ka\xE7 TL kald\u0131?"
+  answers:
+  - 15
+  - 17
+  - 19
+  - 21
+  correctAnswerIndex: 1

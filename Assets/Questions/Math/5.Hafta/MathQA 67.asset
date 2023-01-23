@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 67
+  m_EditorClassIdentifier: 
+  question: "Bir kaza\u011F\u0131n fiyat\u0131 54 lirad\u0131r.\r G\xF6mle\u011Fin
+    fiyat\u0131 ise kaza\u011F\u0131n\r fiyat\u0131ndan 14 TL azd\u0131r. Bu\r kaza\u011F\u0131
+    ve g\xF6mle\u011Fi alan biri\r ka\xE7 lira \xF6demelidir?"
+  answers:
+  - 90
+  - 92
+  - 94
+  - 96
+  correctAnswerIndex: 2

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 117
+  m_EditorClassIdentifier: 
+  question: "Kemal d\xFCn 35 sayfa, bug\xFCn d\xFCnden 13 sayfa az kitap okudu. Kemal
+    iki g\xFCnde toplam ka\xE7 sayfa kitap okudu?"
+  answers:
+  - 47
+  - 57
+  - 67
+  - 77
+  correctAnswerIndex: 1

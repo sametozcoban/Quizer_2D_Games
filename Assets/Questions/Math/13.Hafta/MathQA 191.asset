@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 191
+  m_EditorClassIdentifier: 
+  question: "Bir otob\xFCs, 1.duraktan 17, 2.duraktan 14, 3.durakta ise birinci\r\ndurakta
+    ald\u0131\u011F\u0131 yolcu say\u0131s\u0131ndan 6 eksik yolcu alm\u0131\u015Ft\u0131r.
+    Otob\xFCste ka\xE7\r\nyolcu vard\u0131r?"
+  answers:
+  - 40
+  - 41
+  - 42
+  - 43
+  correctAnswerIndex: 2

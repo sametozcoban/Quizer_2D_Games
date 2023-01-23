@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 224
+  m_EditorClassIdentifier: 
+  question: "Timu\xE7in ka\u011F\u0131da yazd\u0131\u011F\u0131 2 say\u0131s\u0131ndan
+    12 elde etmi\u015Ftir. Bu bilgiye g\xF6re Timu\xE7in a\u015Fa\u011F\u0131da ki
+    hangi i\u015Flemleri yaparsa 12 sonucunu elde edecektir?"
+  answers:
+  - "Toplama = 2 ile topla / \xC7arpma = 3 ile \xC7arp"
+  - "Toplama = 4 ile topla / \xC7arpma = 3 ile \xC7arp"
+  - "Toplama = 1 ile topla / \xC7arpma = 3 ile \xC7arp"
+  - "Toplama = 5 ile topla / \xC7arpma = 2 ile \xC7arp"
+  correctAnswerIndex: 0

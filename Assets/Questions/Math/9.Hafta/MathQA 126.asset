@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 126
+  m_EditorClassIdentifier: 
+  question: "76 say\u0131s\u0131n\u0131n rakamlar\u0131 yer de\u011Fi\u015Ftirildi\u011Finde
+    olu\u015Fan yeni say\u0131, 76\u2019dan ka\xE7 eksiktir?\t"
+  answers:
+  - 8
+  - 9
+  - 10
+  - 11
+  correctAnswerIndex: 1

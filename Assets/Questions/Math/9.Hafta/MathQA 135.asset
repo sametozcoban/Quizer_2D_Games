@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75afac9614131294d8a42200f39f7200, type: 3}
+  m_Name: MathQA 135
+  m_EditorClassIdentifier: 
+  question: "Selma\u2019n\u0131n akl\u0131nda tuttu\u011Fu say\u0131 26\u2019d\u0131r.
+    Selma bu say\u0131ya 17 ve 28 say\u0131lar\u0131n\u0131 eklerse sonu\xE7 ka\xE7
+    olur?"
+  answers:
+  - 70
+  - 71
+  - 72
+  - 73
+  correctAnswerIndex: 1
